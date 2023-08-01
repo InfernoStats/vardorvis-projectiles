@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Vardorvis Projectiles
+Alter the Projectiles for Vardorvis' Prayer-Disable Attack
